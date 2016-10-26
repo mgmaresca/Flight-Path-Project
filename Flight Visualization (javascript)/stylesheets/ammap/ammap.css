@@ -1,0 +1,159 @@
+.ammapAlert
+{
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+    font-family:verdana,helvetica,arial,sans-serif;
+    font-size:12px;
+    color:#CC0000;
+}
+
+.ammapDescriptionWindow
+{
+   font-size:11px;
+   font-family:verdana,helvetica,arial,sans-serif;
+   background-color:#FFFFFF;
+   border-style:solid;
+   border-color:#DADADA;
+   border-width:1px;
+   color:#000000;
+   padding:8px;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+.ammapDescriptionTitle
+{
+   font-size:12px;
+   font-weight:bold;
+   font-family:verdana,helvetica,arial,sans-serif;
+   padding-bottom:5px;
+}
+
+.ammapDescriptionWindowCloseButton
+{
+
+}
+
+.ammapObjectList ul
+{
+    padding-left:20px;
+    list-style:square outside;
+    color:#999999;
+    font-family:verdana,helvetica,arial,sans-serif;
+    font-size: 12px;
+}
+
+.ammapObjectList ul ul
+{
+    padding-left:14px;
+}
+
+.ammapObjectList a
+{
+    color:#000000;
+}
+
+.ammapObjectList a
+{
+    color:#000000;
+    text-decoration:none;
+    display:block;
+    padding:2px;
+}
+
+.ammapObjectList a:hover
+{
+    color:#CC0000;
+    text-decoration:none;
+    background:#FFFFFF;
+    cursor:pointer;
+    display:block;
+}
+
+.ammapDescriptionText
+{
+	overflow: auto;
+}
+
+
+.amChartsPlotArea
+{
+
+}
+
+.map 
+{
+  border-style: dotted;
+  border-color: #BDBDBD;
+
+  width: 1500px;
+  height: 1000px;
+  margin: auto;
+}
+
+.logo{
+  width: 300px;
+  margin-left: 60%;
+}
+
+select{
+  width: 270px;
+}
+
+
+.right-side{
+  text-align: left;
+}
+
+.left-side{
+  padding-left: 13px;
+}
+
+
+.left-side-b{
+  padding-left: 13px;
+  border-right-style: dotted;
+  border-right-color: #BDBDBD;
+}
+
+div.form{
+  margin: auto;
+
+  width: 1200px;
+}
+
+table{
+  border-style: dotted;
+  border-color: #BDBDBD;
+}
+
+td{
+  background-color: #FFFFFF;
+  padding: 10px;
+}
+
+td.button-submit{
+  border-top-style: dotted;
+  border-top-color: #BDBDBD;
+}
+
+th{
+  padding: 10px;
+  font-size: large;
+  text-align: left;
+}
+
+th.b{
+  padding: 10px;
+  border-right-style: dotted;
+  border-right-color: #BDBDBD;
+}
+
+.display-flight{
+  height: 50px;
+  width: 150px;
+}
+
+

@@ -1,0 +1,1 @@
+var flights = [{"origin":"FRA","path":[{"longitude":8.75730933212652,"latitude":45.364085051973}],"destination":"STR"},{"origin":"STR","path":[],"destination":"FRA"},{"origin":"FRA","path":[],"destination":"GVA"},{"origin":"GVA","path":[],"destination":"STR"},{"origin":"STR","path":[],"destination":"FRA"},{"origin":"FRA","path":[],"destination":"GVA"}]
